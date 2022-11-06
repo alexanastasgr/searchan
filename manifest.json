@@ -1,0 +1,16 @@
+{
+    "name": "Searchan",
+    "version": "1.0",
+    "manifest_version": 3,
+
+
+    "action": {
+        "default_icon": {
+          "16": "assets/searchan.png",
+          "24": "assets/searchan.png",
+          "32": "assets/searchan.png"
+        },
+        "default_title": "Searchan the searcher wizard",
+        "default_popup": "popups/searchan.html"
+      }
+  }
